@@ -1,0 +1,29 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true
+    },
+    "extends": "eslint:recommended",
+    "rules": {
+        "indent": [
+            "warn",
+            4
+        ],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "no-unused-vars": [
+            "warn",
+            "all"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "no-console": [
+            "warn",
+            {}
+        ]
+    }
+}

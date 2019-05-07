@@ -1,0 +1,23 @@
+{
+  "name": "jasmid",
+  "version": "1.0.0",
+  "description": "A MIDI file reader and synthesiser in Javascript",
+  "main": "midifile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanbsd/jasmid.git"
+  },
+  "keywords": [
+    "midi",
+    "audio"
+  ],
+  "author": "Matt Westcott <matt@west.co.tt>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/romanbsd/jasmid/issues"
+  },
+  "homepage": "https://github.com/romanbsd/jasmid#readme"
+}
